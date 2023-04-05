@@ -1,0 +1,52 @@
+body{
+    background-image: linear-gradient(red,pink,white);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.div1{
+    background-color: skyblue;
+    padding: 0.5%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 42px;
+    text-decoration: none;
+    align-items: center;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+.div2{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
+.table{
+    background-color: white;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    border: 0.5px gray solid;
+}
+
+.th{
+    font-size: 35px;
+    margin: auto;
+    border: 1px black solid;
+    padding: 0.2%;
+}
+.th1{
+    margin-right: 50px;
+}
+
+.btn{
+    width: 250px;
+    height: 50px;
+    border-radius: 25px;
+    font-size: 25px;
+    background-color: cyan;
+}
